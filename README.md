@@ -72,6 +72,11 @@ pip install ultralytics tensorflow numpy opencv-python matplotlib jupyter
 - git clone https://github.com/your-username/isometric-image-detection.git
 - cd isometric-image-detection
 
+**You can install the latest release from PyPI:** 
+```bash
+pip install ai-isometric-extractor==0.1.2
+```
+
 ### Install Dependencies:
 pip install -r requirements.txt
 
@@ -159,10 +164,6 @@ Contributions are welcome! To contribute:
 - Commit changes: git commit -m 'Add your feature'.
 - Push: git push origin feature/your-feature.
 - Open a Pull Request. 📬
-
-**You can install the latest release from PyPI:** 
-```bash
-pip install ai-isometric-extractor==0.1.2
 
 
 Ensure code follows the project's style and includes documentation.
