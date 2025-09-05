@@ -1,10 +1,8 @@
 ## Isometric Diagram Extraction and Extraneous Details Removal 🖼️
 This project implements a sophisticated image processing pipeline combining YOLOv8 for object detection with TensorFlow/Keras models for anomaly detection and image reconstruction. It identifies isometric images, evaluates anomalies, and generates cleaned outputs, optimized for grayscale processing. A preprocessing notebook is included for dataset preparation. 🚀 
-## Installation
+### Installation
 
-You can install the latest release from TestPyPI:
-
-```bash
+You can install the latest release from PyPI:
 pip install ai-isometric-extractor==0.1.2
 
 ### Table of Contents 📑
